@@ -1,0 +1,5 @@
+import webbrowser
+
+	x1=input('1)ToxicHTR')
+	if x1=='1':
+		webbrowser.open('https://t.me/ToxicHacksTR')
